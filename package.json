@@ -1,0 +1,6 @@
+{
+  "name": "monolith-install",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Vercel project serving the Monolith CLI installer and wheel downloads at install.thisismonolith.com"
+}

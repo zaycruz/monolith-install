@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-DEFAULT_PACKAGE="https://install.thisismonolith.com/downloads/monolith_cli-0.4.9-py3-none-any.whl"
+DEFAULT_PACKAGE="https://install.thisismonolith.com/downloads/monolith_cli-0.4.10-py3-none-any.whl"
 REPO="${MONOLITH_CLI_REPO:-}"
 REF="${MONOLITH_CLI_REF:-main}"
 SUBDIRECTORY="${MONOLITH_CLI_SUBDIRECTORY:-}"
